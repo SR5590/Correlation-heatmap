@@ -1,4 +1,7 @@
-# Correlation-heatmap
-# Generate heatmap of distance matrix data
+#Correlation-heatmap
+
+#Generate heatmap using distance matrix data
+
+
 
 
